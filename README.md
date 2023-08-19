@@ -4,7 +4,7 @@
 >
 > 以下是我绘制的一条飞线案例，它虽然是通过 Polyline 来绘制的，但是还需要额外自定义 GLSL 效果。
 >
-> - [查看地址](https://cesium-post-process.vercel.app/)
+> - [查看地址](https://cesium-flowing-line.vercel.app/)
 > - [仓库地址](https://github.com/WaterSeeding/CesiumFlowingLine)
 
 <br />
