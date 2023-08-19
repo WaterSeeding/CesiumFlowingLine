@@ -10,7 +10,7 @@ export const setFlyLine = (
     fabric: {
       type: 'FlowingLineMaterial',
       uniforms: {
-        color: new Cesium.Color(0.0, 1.0, 0.0, 0.5), // light color
+        color: new Cesium.Color(0.0, 1.0, 1.0, 1.0), // light color
         speed: 1.5, // flowing speed, speed > 0.0
         headsize: 0.05, // 0.0 < headsize < 1.0
         tailsize: 0.5, // 0.0 < tailsize < 1.0
